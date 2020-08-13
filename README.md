@@ -24,6 +24,10 @@ This repository contains a step-by-step guide and command-line tool to help you 
 
 [SD card writing tools](./setup/install-os.md) - installing operating system images.
 
+<img src="./assets/icon-backup.png" alt="Backup" align="left">
+
+[Clone and shrink an SD image](./setup/clone-sd-card.md) - make a backup for hard times.
+
 <img src="./assets/icon-raspberry-pi.png" alt="Raspberry Pi OS" align="left">
 
 [Install the Raspberry Pi OS](./setup/install-os-raspberry-pi.md)
